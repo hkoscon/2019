@@ -207,7 +207,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019/timetable/index.html",
-    "revision": "10753504487c4ddcd632823d781f4318"
+    "revision": "4c8f989e4c36499956e70f894c1f6133"
   },
   {
     "url": "/2019/topics/8-essential-steps-secure-your-mysql/index.html",
@@ -271,11 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019/topics/index.html",
-    "revision": "cca7b5798d09df2d2f25f9833465ab93"
-  },
-  {
-    "url": "/2019/topics/introduce-students-open-source-conference/index.html",
-    "revision": "8cf53d9e2fa18beb1d9517add863baea"
+    "revision": "9d6b52fb6814a10cfcb078a013fc6122"
   },
   {
     "url": "/2019/topics/introducing-open-technology-hong-kong-education/index.html",
@@ -383,7 +379,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019/timetable/",
-    "revision": "10753504487c4ddcd632823d781f4318"
+    "revision": "4c8f989e4c36499956e70f894c1f6133"
   },
   {
     "url": "/2019/topics/8-essential-steps-secure-your-mysql/",
@@ -447,11 +443,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019/topics/",
-    "revision": "cca7b5798d09df2d2f25f9833465ab93"
-  },
-  {
-    "url": "/2019/topics/introduce-students-open-source-conference/",
-    "revision": "8cf53d9e2fa18beb1d9517add863baea"
+    "revision": "9d6b52fb6814a10cfcb078a013fc6122"
   },
   {
     "url": "/2019/topics/introducing-open-technology-hong-kong-education/",
