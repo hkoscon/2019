@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{217:function(t,e,n){"use strict";n.r(e);var l={name:"DayTable",components:{TimeslotRow:function(){return n.e(19).then(n.bind(null,210))}},props:{day:{type:Object,required:!0}}},o=n(17),component=Object(o.a)(l,function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"day"},this._l(this.day.timeslots,function(t){return e("timeslot-row",{key:t.startTime,attrs:{timeslot:t}})}),1)},[],!1,null,null,null);e.default=component.exports}}]);
-//# sourceMappingURL=2d6459e48845553febd6.js.map
