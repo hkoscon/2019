@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "d26e83b6e9022fb294b8554bf2475ac1"
+    "revision": "f36551e540f814503030d6cf1855a6c0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "bcc664d3da3cca7635a69f31388eb654"
+    "revision": "3e5c73b7d5af70266647aa43670be180"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -458,6 +458,10 @@ self.__precacheManifest = [
     "revision": "4aac36348f25489552477d5172c24871"
   },
   {
+    "url": "/2019//topics/whats-new-freebsd-120/index.html",
+    "revision": "c1ee57c47f2882786c662abb2596f082"
+  },
+  {
     "url": "/2019//topics/whats-new-haxe-4/index.html",
     "revision": "c1b6066e08603cd78bc22668ee854667"
   },
@@ -499,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "d26e83b6e9022fb294b8554bf2475ac1"
+    "revision": "f36551e540f814503030d6cf1855a6c0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -563,7 +567,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "bcc664d3da3cca7635a69f31388eb654"
+    "revision": "3e5c73b7d5af70266647aa43670be180"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -660,6 +664,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/",
     "revision": "4aac36348f25489552477d5172c24871"
+  },
+  {
+    "url": "/2019//topics/whats-new-freebsd-120/",
+    "revision": "c1ee57c47f2882786c662abb2596f082"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/",
