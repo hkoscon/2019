@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "77e131984c2754591100a9024a815d34"
+    "revision": "a2e17f5ebd7f9fd7834c8dd67fe5f6d6"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "ad4aa24468c49d5b8866b2f7bad7e480"
+    "revision": "54a59b1fe650f027f60c3d3da189b17f"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -424,10 +424,6 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/index.html",
     "revision": "7488c9cdef58021cc0b8efdf2b0382c2"
-  },
-  {
-    "url": "/2019//topics/practical-mysql-performance-tuning-and-optimization-mysqlxingnengyouhuashizhan/index.html",
-    "revision": "f11f4704f8aba5615753702d66650091"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/index.html",
@@ -507,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "77e131984c2754591100a9024a815d34"
+    "revision": "a2e17f5ebd7f9fd7834c8dd67fe5f6d6"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -571,7 +567,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "ad4aa24468c49d5b8866b2f7bad7e480"
+    "revision": "54a59b1fe650f027f60c3d3da189b17f"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -636,10 +632,6 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/",
     "revision": "7488c9cdef58021cc0b8efdf2b0382c2"
-  },
-  {
-    "url": "/2019//topics/practical-mysql-performance-tuning-and-optimization-mysqlxingnengyouhuashizhan/",
-    "revision": "f11f4704f8aba5615753702d66650091"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/",
