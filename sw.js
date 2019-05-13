@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "f5e66cc3908c6fd3a2c76445c6d582c6"
+    "revision": "77e131984c2754591100a9024a815d34"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "4cc25af781bcdf5872ec3a96b4b03eb7"
+    "revision": "ad4aa24468c49d5b8866b2f7bad7e480"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -442,6 +442,10 @@ self.__precacheManifest = [
     "revision": "2ea81676a3b5f986a086ac78757a94ce"
   },
   {
+    "url": "/2019//topics/run-programs-faster-anywhere-graalvm/index.html",
+    "revision": "41b83e23b4d7228e4a6f3d076acfabbe"
+  },
+  {
     "url": "/2019//topics/status-quo-tensorflow-lite/index.html",
     "revision": "89a4941456025b39f31f1c74e188f94b"
   },
@@ -503,7 +507,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "f5e66cc3908c6fd3a2c76445c6d582c6"
+    "revision": "77e131984c2754591100a9024a815d34"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -567,7 +571,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "4cc25af781bcdf5872ec3a96b4b03eb7"
+    "revision": "ad4aa24468c49d5b8866b2f7bad7e480"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -648,6 +652,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/raspberry-pi-history-tips-and-use-case/",
     "revision": "2ea81676a3b5f986a086ac78757a94ce"
+  },
+  {
+    "url": "/2019//topics/run-programs-faster-anywhere-graalvm/",
+    "revision": "41b83e23b4d7228e4a6f3d076acfabbe"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/",
