@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "a2e17f5ebd7f9fd7834c8dd67fe5f6d6"
+    "revision": "2eb7bfb2fc54f54e45badf58a240005a"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -338,6 +338,10 @@ self.__precacheManifest = [
     "revision": "f24d9c4f2c847f87fc463f5c7546b517"
   },
   {
+    "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/index.html",
+    "revision": "84858cdbd9746ac65abbdd93e7f22f04"
+  },
+  {
     "url": "/2019//topics/formal-verification-smart-contract/index.html",
     "revision": "b773bcfe02f1fe8114e3c3cb643301fb"
   },
@@ -359,7 +363,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "54a59b1fe650f027f60c3d3da189b17f"
+    "revision": "fe7c7cac605f43d1e39fccf6e1418676"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -503,7 +507,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "a2e17f5ebd7f9fd7834c8dd67fe5f6d6"
+    "revision": "2eb7bfb2fc54f54e45badf58a240005a"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -546,6 +550,10 @@ self.__precacheManifest = [
     "revision": "f24d9c4f2c847f87fc463f5c7546b517"
   },
   {
+    "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/",
+    "revision": "84858cdbd9746ac65abbdd93e7f22f04"
+  },
+  {
     "url": "/2019//topics/formal-verification-smart-contract/",
     "revision": "b773bcfe02f1fe8114e3c3cb643301fb"
   },
@@ -567,7 +575,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "54a59b1fe650f027f60c3d3da189b17f"
+    "revision": "fe7c7cac605f43d1e39fccf6e1418676"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
