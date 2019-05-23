@@ -26,44 +26,40 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "/2019//06539fb339756130601f.js",
-    "revision": "df6afd3b4b8515a260d56dcd99a3e39b"
-  },
-  {
-    "url": "/2019//06722de5b33762f50f68.js",
-    "revision": "724829983fef69c0537ada4e4794eddf"
+    "url": "/2019//06677654f4cd4e19dcc6.js",
+    "revision": "3a28ee57e71849a1abc87b8291ef69c1"
   },
   {
     "url": "/2019//0a7007e0ef452862c6dc.css",
     "revision": "48bebad343b53e94a957a80019e523ec"
   },
   {
+    "url": "/2019//0c7a307ce3868101e58c.js",
+    "revision": "cb93dbd78a1ba49e4af55d45ff4a17de"
+  },
+  {
     "url": "/2019//13a5e02fb610dfaa915a.css",
     "revision": "6daa27100b2731025d9c6eb32e1ae6ed"
   },
   {
+    "url": "/2019//13b09248b961e9a3d3cf.js",
+    "revision": "49936f8fa24c84c365e587ca06f822ba"
+  },
+  {
+    "url": "/2019//14b191276c210d6e7e11.js",
+    "revision": "2eee5f10bcb9e8d81f32ecb527df82df"
+  },
+  {
+    "url": "/2019//159fb2a58774fa600f00.js",
+    "revision": "761228e9e18046d7e020b2f2e8534850"
+  },
+  {
     "url": "/2019//200.html",
-    "revision": "bf67d0fe223eb0c88f13a97235760b34"
+    "revision": "b2dc5deae6532181376dfa91c31dc2cb"
   },
   {
     "url": "/2019//28026f771b814d34c261.css",
     "revision": "f52be865dfa469658249d4550bab557b"
-  },
-  {
-    "url": "/2019//2c57310888a2cd366ed8.js",
-    "revision": "4610264abdda83e62248a1425338d50b"
-  },
-  {
-    "url": "/2019//2ed3acf125202d45de8e.js",
-    "revision": "808d611ce4773cbc0cd9d0e75c552a37"
-  },
-  {
-    "url": "/2019//2f7ae61d000d668e8e12.js",
-    "revision": "5033118dda4289b42450058e7836d656"
-  },
-  {
-    "url": "/2019//3094190d269f3dc44186.js",
-    "revision": "c9f1d7ada7723d19af08da111506a191"
   },
   {
     "url": "/2019//36c821bbb38fe01e8ee9.css",
@@ -74,12 +70,16 @@ self.__precacheManifest = [
     "revision": "56a413c7db34468fee0e33c47e4717a2"
   },
   {
+    "url": "/2019//385906eec9e50c09c0bc.js",
+    "revision": "b4110250a9f3d2f64f6b128f74764422"
+  },
+  {
     "url": "/2019//3d8e9d0a28cec342e837.css",
     "revision": "92ac8a848037992b93004565ee7c018b"
   },
   {
-    "url": "/2019//40829b654df95d9faf0a.js",
-    "revision": "0cc3878c64cfc310f6d88d39c669c138"
+    "url": "/2019//40a9a230242fd8d28d7b.js",
+    "revision": "a00a1c8a308c346ce85ee77751a3b6be"
   },
   {
     "url": "/2019//45af625e7193cf814cba.css",
@@ -90,56 +90,52 @@ self.__precacheManifest = [
     "revision": "a7a7bcc5069a2d30051021536ca5ee96"
   },
   {
-    "url": "/2019//46470fbcc7ee68b397a9.js",
-    "revision": "6640835d93f16b752b1d6456cea0e6a5"
-  },
-  {
     "url": "/2019//4dd83e329df54977296e.css",
     "revision": "33c5ac4647794a2b2151cedbc8697921"
   },
   {
-    "url": "/2019//547a081fe0f5ddcc4e35.js",
-    "revision": "4ef97a2f75e5c771606c976edc92f608"
+    "url": "/2019//5285de94b0245d2587b8.js",
+    "revision": "74dec999c15fe2b2b4caeb5550b183f2"
   },
   {
-    "url": "/2019//5e1bd858b205deccaadf.js",
-    "revision": "72f99eb1a784be50797c81362e1fff68"
+    "url": "/2019//533e7f0c44353f502a05.js",
+    "revision": "b2c1c41d7c5a18f1fa22f202f7361532"
   },
   {
-    "url": "/2019//5fcb9f5b8abe19b2a570.js",
-    "revision": "ba0d45a160f87e54390134651530c324"
+    "url": "/2019//549a5598e102b8073ac0.js",
+    "revision": "96ae882542cf3d0e8070a1a62c07bdde"
   },
   {
-    "url": "/2019//61a8713b583786cfffd5.js",
-    "revision": "79fbf20063caaf044c61943e645ccc81"
-  },
-  {
-    "url": "/2019//657cc75d3b1dc3832b27.js",
-    "revision": "011b4480452b1fb4730c2bad67d3c021"
+    "url": "/2019//580093837ece7dd06690.js",
+    "revision": "bd7b773e9ed8c2bc9275b9d6bf457b1d"
   },
   {
     "url": "/2019//65a468635d7e2bbd7bf8.css",
     "revision": "668bec8ed029aa41e4edfd130c04467e"
   },
   {
+    "url": "/2019//6a24f7ed8227bb377704.js",
+    "revision": "17ea3adfb99a224ef2505662d2ad11a3"
+  },
+  {
+    "url": "/2019//6c47ae165de142f06ac4.js",
+    "revision": "51bd5d70babe6f662cde86fa710f0232"
+  },
+  {
     "url": "/2019//6d5077a7f07ef147615c.css",
     "revision": "df4b7c436dea4b56cfff94a89031318a"
   },
   {
-    "url": "/2019//6fa6bf5d181c66b3045f.js",
-    "revision": "e37e040583d2601eea354dc5aea4a29d"
-  },
-  {
-    "url": "/2019//757d55efc614a45d3cf3.js",
-    "revision": "79090199009f7e2296f4bd0edf8e1fd1"
-  },
-  {
-    "url": "/2019//75fc98b74f7faca952b5.js",
-    "revision": "ff8da63753b59d195abd851d7c385f06"
+    "url": "/2019//73940212a2bc2b784a9e.js",
+    "revision": "f57197cd0edf7607c8e28c26f7b177c1"
   },
   {
     "url": "/2019//77ce10b51f563326a23f.css",
     "revision": "2ec47afeca7210758bb8a7b6fc139634"
+  },
+  {
+    "url": "/2019//8192025c15e3cc812a22.js",
+    "revision": "307c5186983c1dc2c5b25aed939e0ab7"
   },
   {
     "url": "/2019//884aef19c7edaf5b65c7.js",
@@ -150,10 +146,6 @@ self.__precacheManifest = [
     "revision": "62a1268e43bd720d34d317ada4cf02a6"
   },
   {
-    "url": "/2019//92950765ce6ea67930b1.js",
-    "revision": "d327a2c8a45c3a94a0f987509d08a287"
-  },
-  {
     "url": "/2019//9571043b8539bb83ed17.css",
     "revision": "5060781f96b359aaad62ccacf5c5e926"
   },
@@ -162,64 +154,76 @@ self.__precacheManifest = [
     "revision": "43d5405ab0f4bc41a7452dbc00d25e15"
   },
   {
-    "url": "/2019//a932f7f7bcf5aafff7a2.js",
-    "revision": "937984266d58900a9ed86e408720715c"
-  },
-  {
     "url": "/2019//about/coc/index.html",
-    "revision": "83ad072f3ba021d302d6ce6a865295a4"
+    "revision": "fda381da8b33cd018b837de75fc0c4e3"
   },
   {
     "url": "/2019//about/conference/index.html",
-    "revision": "4b6e0e46dfdbe622174df68f927e9079"
+    "revision": "bffe8806218c6ef52199c94ccc970016"
   },
   {
     "url": "/2019//about/organizers/index.html",
-    "revision": "06be65465bf2874ac298dfee3c05a298"
+    "revision": "8dce820874f101cba8b7f5b9776ac7d6"
   },
   {
     "url": "/2019//about/volunteers/index.html",
-    "revision": "5fa15b6f51670ea3f28ddb9f347afe48"
+    "revision": "a852f44d2d82aebf817088348118ab49"
   },
   {
-    "url": "/2019//b3895689bc9adb954470.js",
-    "revision": "ece7c474f2ac4ed75253f1c5f08884dc"
+    "url": "/2019//b30c6329d2468cf17153.css",
+    "revision": "e68ed3e877a82ead18777640c6058001"
   },
   {
-    "url": "/2019//b463e1bee1ed7a517473.js",
-    "revision": "7f155e7b933f51df4cbe793951b20cac"
+    "url": "/2019//bae463d58234ba7ea664.js",
+    "revision": "5e90a6f5aa41fcad9be73fac697de6cf"
+  },
+  {
+    "url": "/2019//bb2de4e8c52eba84f542.js",
+    "revision": "32a2ddbbf1c254f2eccfa3e634b46756"
   },
   {
     "url": "/2019//c265564cf103152868dd.css",
     "revision": "bbeafe734fe483a531602de7ec484b18"
   },
   {
-    "url": "/2019//c55b29f549df819f2699.js",
-    "revision": "8c33391f01a81c58b8296359d8db5082"
+    "url": "/2019//cfc/index.html",
+    "revision": "3ea9e973fbdb3d592b73c1e6351bbdc1"
   },
   {
-    "url": "/2019//cfc/index.html",
-    "revision": "5dea197d78b6c792ffa543197432057b"
+    "url": "/2019//cfced533df7ad810d41d.js",
+    "revision": "604ad2f3884a776a0bbd39d3508571df"
   },
   {
     "url": "/2019//cfp/index.html",
-    "revision": "8f645f702ae110d826ae78b267f46f8a"
+    "revision": "8ba93ae2e3504f57439730222e0ca012"
   },
   {
-    "url": "/2019//d833b0fcc79baed1292d.js",
-    "revision": "9c447747fd6c0725b94906ae1dcdbdf0"
+    "url": "/2019//d220e64c3129bdaaa71b.js",
+    "revision": "8c7d351823ec5c95a81ae68be66fb427"
   },
   {
-    "url": "/2019//dac3888e431744bdeba0.js",
-    "revision": "f329d105a56de99458dc5cd0ea15aafd"
+    "url": "/2019//d4a6875306e57e9572e4.js",
+    "revision": "d6f416501cceeb5d8d4a165895b91e67"
   },
   {
-    "url": "/2019//f3e80f53e49f07debcf6.js",
-    "revision": "ca905d81fd25214f7a5e2a9d8048c8a9"
+    "url": "/2019//dc7c7bec2bec14e04999.js",
+    "revision": "a74133295d292ec8004487e5229a39f0"
   },
   {
-    "url": "/2019//f84284c96a21f393149b.js",
-    "revision": "6351f2296afa6818703f7d18b8fbb156"
+    "url": "/2019//e19ef98fc74386fdb495.js",
+    "revision": "64c1a9fb2b6598b5f11bb8175cc5b3b0"
+  },
+  {
+    "url": "/2019//f11981a41b6e1bda9c22.js",
+    "revision": "1e3c89df1e694d8c4bae3712ff652423"
+  },
+  {
+    "url": "/2019//f3915beb94fe7fe3a418.js",
+    "revision": "be9d95369c04fea515fec2f3b8b781b8"
+  },
+  {
+    "url": "/2019//fe95ce78128f694c9829.js",
+    "revision": "08d9b226e713676990ad4fa70707175d"
   },
   {
     "url": "/2019//images/banner.jpg",
@@ -287,403 +291,403 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//index.html",
-    "revision": "6a9cc8dc2d1d38d79aed05f0cb85b9e8"
+    "revision": "a7b06011cb00b538ec4e7b070d5682bb"
   },
   {
     "url": "/2019//sponsors/index.html",
-    "revision": "02deba9d190275472003a555e8d8bf98"
+    "revision": "97eb6c4333b2c3a3d4ff016bb66d0a18"
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "2eb7bfb2fc54f54e45badf58a240005a"
+    "revision": "fcc647aae1a0a43bd22948bb7b3ebdac"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
-    "revision": "9c71ef740f04a724e6558941c95f2609"
+    "revision": "7f0ca0bf517af01545bb50374d31f255"
   },
   {
     "url": "/2019//topics/build-jamstack-blog-system-gatsbyjs/index.html",
-    "revision": "86fcbccaece753768472038dba16ee3d"
+    "revision": "e9be6c6e358778cb6b086d7d7fec38e5"
   },
   {
     "url": "/2019//topics/build-minimal-dbms-scratch-rust/index.html",
-    "revision": "e2a6c9a263ac74f04c1439bf2059eabe"
+    "revision": "a48e708d1e3a784b1891df9e6f5392a9"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/index.html",
-    "revision": "40b97d3fa2c8c7f63d576c92b62c6730"
+    "revision": "cb5f55895f2855bf6de4494bbce49b66"
   },
   {
     "url": "/2019//topics/dapp-game-blockchain-random-number-generation-method-and-implementation/index.html",
-    "revision": "c82e435248b77fe56a29bd96b2aaaedd"
+    "revision": "b0f8da92caf35b012148f399d3a0fd99"
   },
   {
     "url": "/2019//topics/decentralized-bare-metal-operating-system-provisioning/index.html",
-    "revision": "19682d9df830b7744efb108b011a956f"
+    "revision": "b2dbf2d269c923bc55a259e67182004d"
   },
   {
     "url": "/2019//topics/decentralized-data-marketplace-based-distributed-ledgers/index.html",
-    "revision": "aa5000336e42a46898d52ac5c2211995"
+    "revision": "2ef55a4d83c3dfc903d80e9bfd4d1f55"
   },
   {
     "url": "/2019//topics/devops-ansible-native-kubernetes/index.html",
-    "revision": "c96b35fdb88d2132c50160ca4567343c"
+    "revision": "1329ea97b0a390e7aae54c9fb7f33c26"
   },
   {
     "url": "/2019//topics/diagnosis-internets-health-mozilla-internet-health-report/index.html",
-    "revision": "02da10d42a85c5d4fa8042ff3ea8c8b4"
+    "revision": "721c8ea2f24004194efdf0c8c3b45082"
   },
   {
     "url": "/2019//topics/diy-wealth-management-app/index.html",
-    "revision": "f24d9c4f2c847f87fc463f5c7546b517"
+    "revision": "f39efe3d2ebcef1ca2c3bffd9f6fafe9"
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/index.html",
-    "revision": "84858cdbd9746ac65abbdd93e7f22f04"
+    "revision": "5c175b6e65a8f80ab819440b6b0e7ed6"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/index.html",
-    "revision": "b773bcfe02f1fe8114e3c3cb643301fb"
+    "revision": "27e86adf086791954ce63da0ad29827a"
   },
   {
     "url": "/2019//topics/haxe-transpilation-php-static-typing-arrow-functions-metaprogramming-and-more/index.html",
-    "revision": "2c52ba0b02b45617b64236fe8183b23a"
+    "revision": "0bc6cb21137ea86859b7574385d11c71"
   },
   {
     "url": "/2019//topics/homemade-scientific-clusters/index.html",
-    "revision": "2e7b5108f4559876b1f30fc019cbd72b"
+    "revision": "c834564564a0655b40ed5cf0b74f0835"
   },
   {
     "url": "/2019//topics/how-we-started-open-source-apm-project-and-troubleshooting-it/index.html",
-    "revision": "4b09d083f39934a417597d0e83e02ba1"
+    "revision": "16a142b1097d02768f3e5a7913e98306"
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/index.html",
-    "revision": "9298d9561144085049e7b7958e265568"
+    "revision": "39f4424542a88136aa4f940d539b804d"
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "fe7c7cac605f43d1e39fccf6e1418676"
+    "revision": "3e7a00ddd3d700fb330c7f1230dd5888"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
-    "revision": "bc24aba4d4f42af21aca5992e15e69cb"
+    "revision": "ec44aececc88701048a8f29793770867"
   },
   {
     "url": "/2019//topics/introducing-open-technology-hong-kong-education/index.html",
-    "revision": "1186d87213e3b2f22f0499cd01f33884"
+    "revision": "0d95556b7774112d531e195c4cc3e48b"
   },
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/index.html",
-    "revision": "86b8e9271e5ccd6283c78dfd4bcec459"
+    "revision": "1fd80b892ff609da7d09dbcb0e746674"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/index.html",
-    "revision": "56a684808d9d75dcac6489f0b8bb46d0"
+    "revision": "845e554539bebac23d57327f99b2cc72"
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/index.html",
-    "revision": "4259af2dc2e36a3581d387e090cce11a"
+    "revision": "ca95c0480230284aec98e59618580d2a"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/index.html",
-    "revision": "62abe5979f719cab21f3fa4a53b7dbe9"
+    "revision": "da069775a60c237461b7fce0b6dd64ba"
   },
   {
     "url": "/2019//topics/lighting-talks/index.html",
-    "revision": "79ac0b858601292d12bc306131b4e4a1"
+    "revision": "3f38623cb460a95da73e916016df2bf6"
   },
   {
     "url": "/2019//topics/make-hyperledger-fabric-reactive-and-cqrs-es/index.html",
-    "revision": "5bbe4784b51e36b39a79f0bc0ab94033"
+    "revision": "04195ab86946bf6591c59bbf46079e1f"
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/index.html",
-    "revision": "54b2015c790d07466006bf7a4aff1136"
+    "revision": "b048ad44be195763b774619c6303f3f4"
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/index.html",
-    "revision": "edb486dce983a6001eebfb245817e739"
+    "revision": "5155cf9054c64cc9ad9cb91766ff897d"
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/index.html",
-    "revision": "ae6ed79fd503ae4a6426e195a12a5c33"
+    "revision": "bd9c56bc90fbc1c85edfb89a61d9ff40"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/index.html",
-    "revision": "2ff51b833214ecdbb39e744282c51543"
+    "revision": "55c52dac87df2ab4ca2c21d2a05e56a1"
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/index.html",
-    "revision": "8162e3b7f36b08762e051192de4b85f8"
+    "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/index.html",
-    "revision": "86e5b9d54a2a80cd15815b169a0587b3"
+    "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
   {
     "url": "/2019//topics/plant-identification-system-ai-ar/index.html",
-    "revision": "9cabf242f90d51d1eefdfa825ce02704"
+    "revision": "1c9d5514cb5dfd4048bca1b9e7c651ec"
   },
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/index.html",
-    "revision": "7488c9cdef58021cc0b8efdf2b0382c2"
+    "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/index.html",
-    "revision": "e30cc9bfe7625029f6c86188b2d310bd"
+    "revision": "d83b0b17e8d804a572a6de8c918ddf4d"
   },
   {
     "url": "/2019//topics/random-number-generation-simulation-blockchain-and-cryptography/index.html",
-    "revision": "c225f46afc8ae9a5bc72e667b9b11d3c"
+    "revision": "adc2d79e6421072b8425122d2e409e17"
   },
   {
     "url": "/2019//topics/raspberry-pi-history-tips-and-use-case/index.html",
-    "revision": "2ea81676a3b5f986a086ac78757a94ce"
+    "revision": "991899b1f362937c94d0fc595f479880"
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/index.html",
-    "revision": "41b83e23b4d7228e4a6f3d076acfabbe"
+    "revision": "d73977e456478f705ba09e1fd1f5a362"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/index.html",
-    "revision": "89a4941456025b39f31f1c74e188f94b"
+    "revision": "5e7dfc34ccd183a319a2701cddd8468f"
   },
   {
     "url": "/2019//topics/troubleshooting-performance-tuning-best-practices/index.html",
-    "revision": "a68669e3d4c9459c0afe6bcdb42ee1b1"
+    "revision": "1b4b7e46cc635536e4e503c4e2bf5457"
   },
   {
     "url": "/2019//topics/vlc-and-open-source-multimedia-news/index.html",
-    "revision": "de5664ea51f03d0b66a94b2bdab7051e"
+    "revision": "68c462c6efec4b1aee99261d2922b543"
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/index.html",
-    "revision": "4b1c50ea6fb53552088b64cc4acd40e8"
+    "revision": "8c8c3ff31ea04c5029a2b6f65c9f8dc1"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
-    "revision": "a836e03a7eeb844438119f5aaf74d97b"
+    "revision": "eb75b0427b6ce99d5bfa000389497b2d"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/index.html",
-    "revision": "9dc6b6480fbdab4ff7db08cdf27a9236"
+    "revision": "e28eda96c7abe921d4d247d126b716f9"
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/index.html",
-    "revision": "73122266c998f9bbf94be48f6b2030ae"
+    "revision": "85b2d8ca2ba7b45b84fe812d07c967b5"
   },
   {
     "url": "/2019//about/coc/",
-    "revision": "83ad072f3ba021d302d6ce6a865295a4"
+    "revision": "fda381da8b33cd018b837de75fc0c4e3"
   },
   {
     "url": "/2019//about/conference/",
-    "revision": "4b6e0e46dfdbe622174df68f927e9079"
+    "revision": "bffe8806218c6ef52199c94ccc970016"
   },
   {
     "url": "/2019//about/organizers/",
-    "revision": "06be65465bf2874ac298dfee3c05a298"
+    "revision": "8dce820874f101cba8b7f5b9776ac7d6"
   },
   {
     "url": "/2019//about/volunteers/",
-    "revision": "5fa15b6f51670ea3f28ddb9f347afe48"
+    "revision": "a852f44d2d82aebf817088348118ab49"
   },
   {
     "url": "/2019//cfc/",
-    "revision": "5dea197d78b6c792ffa543197432057b"
+    "revision": "3ea9e973fbdb3d592b73c1e6351bbdc1"
   },
   {
     "url": "/2019//cfp/",
-    "revision": "8f645f702ae110d826ae78b267f46f8a"
+    "revision": "8ba93ae2e3504f57439730222e0ca012"
   },
   {
     "url": "/2019//",
-    "revision": "6a9cc8dc2d1d38d79aed05f0cb85b9e8"
+    "revision": "a7b06011cb00b538ec4e7b070d5682bb"
   },
   {
     "url": "/2019//sponsors/",
-    "revision": "02deba9d190275472003a555e8d8bf98"
+    "revision": "97eb6c4333b2c3a3d4ff016bb66d0a18"
   },
   {
     "url": "/2019//timetable/",
-    "revision": "2eb7bfb2fc54f54e45badf58a240005a"
+    "revision": "fcc647aae1a0a43bd22948bb7b3ebdac"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
-    "revision": "9c71ef740f04a724e6558941c95f2609"
+    "revision": "7f0ca0bf517af01545bb50374d31f255"
   },
   {
     "url": "/2019//topics/build-jamstack-blog-system-gatsbyjs/",
-    "revision": "86fcbccaece753768472038dba16ee3d"
+    "revision": "e9be6c6e358778cb6b086d7d7fec38e5"
   },
   {
     "url": "/2019//topics/build-minimal-dbms-scratch-rust/",
-    "revision": "e2a6c9a263ac74f04c1439bf2059eabe"
+    "revision": "a48e708d1e3a784b1891df9e6f5392a9"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/",
-    "revision": "40b97d3fa2c8c7f63d576c92b62c6730"
+    "revision": "cb5f55895f2855bf6de4494bbce49b66"
   },
   {
     "url": "/2019//topics/dapp-game-blockchain-random-number-generation-method-and-implementation/",
-    "revision": "c82e435248b77fe56a29bd96b2aaaedd"
+    "revision": "b0f8da92caf35b012148f399d3a0fd99"
   },
   {
     "url": "/2019//topics/decentralized-bare-metal-operating-system-provisioning/",
-    "revision": "19682d9df830b7744efb108b011a956f"
+    "revision": "b2dbf2d269c923bc55a259e67182004d"
   },
   {
     "url": "/2019//topics/decentralized-data-marketplace-based-distributed-ledgers/",
-    "revision": "aa5000336e42a46898d52ac5c2211995"
+    "revision": "2ef55a4d83c3dfc903d80e9bfd4d1f55"
   },
   {
     "url": "/2019//topics/devops-ansible-native-kubernetes/",
-    "revision": "c96b35fdb88d2132c50160ca4567343c"
+    "revision": "1329ea97b0a390e7aae54c9fb7f33c26"
   },
   {
     "url": "/2019//topics/diagnosis-internets-health-mozilla-internet-health-report/",
-    "revision": "02da10d42a85c5d4fa8042ff3ea8c8b4"
+    "revision": "721c8ea2f24004194efdf0c8c3b45082"
   },
   {
     "url": "/2019//topics/diy-wealth-management-app/",
-    "revision": "f24d9c4f2c847f87fc463f5c7546b517"
+    "revision": "f39efe3d2ebcef1ca2c3bffd9f6fafe9"
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/",
-    "revision": "84858cdbd9746ac65abbdd93e7f22f04"
+    "revision": "5c175b6e65a8f80ab819440b6b0e7ed6"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/",
-    "revision": "b773bcfe02f1fe8114e3c3cb643301fb"
+    "revision": "27e86adf086791954ce63da0ad29827a"
   },
   {
     "url": "/2019//topics/haxe-transpilation-php-static-typing-arrow-functions-metaprogramming-and-more/",
-    "revision": "2c52ba0b02b45617b64236fe8183b23a"
+    "revision": "0bc6cb21137ea86859b7574385d11c71"
   },
   {
     "url": "/2019//topics/homemade-scientific-clusters/",
-    "revision": "2e7b5108f4559876b1f30fc019cbd72b"
+    "revision": "c834564564a0655b40ed5cf0b74f0835"
   },
   {
     "url": "/2019//topics/how-we-started-open-source-apm-project-and-troubleshooting-it/",
-    "revision": "4b09d083f39934a417597d0e83e02ba1"
+    "revision": "16a142b1097d02768f3e5a7913e98306"
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/",
-    "revision": "9298d9561144085049e7b7958e265568"
+    "revision": "39f4424542a88136aa4f940d539b804d"
   },
   {
     "url": "/2019//topics/",
-    "revision": "fe7c7cac605f43d1e39fccf6e1418676"
+    "revision": "3e7a00ddd3d700fb330c7f1230dd5888"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
-    "revision": "bc24aba4d4f42af21aca5992e15e69cb"
+    "revision": "ec44aececc88701048a8f29793770867"
   },
   {
     "url": "/2019//topics/introducing-open-technology-hong-kong-education/",
-    "revision": "1186d87213e3b2f22f0499cd01f33884"
+    "revision": "0d95556b7774112d531e195c4cc3e48b"
   },
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/",
-    "revision": "86b8e9271e5ccd6283c78dfd4bcec459"
+    "revision": "1fd80b892ff609da7d09dbcb0e746674"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/",
-    "revision": "56a684808d9d75dcac6489f0b8bb46d0"
+    "revision": "845e554539bebac23d57327f99b2cc72"
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/",
-    "revision": "4259af2dc2e36a3581d387e090cce11a"
+    "revision": "ca95c0480230284aec98e59618580d2a"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/",
-    "revision": "62abe5979f719cab21f3fa4a53b7dbe9"
+    "revision": "da069775a60c237461b7fce0b6dd64ba"
   },
   {
     "url": "/2019//topics/lighting-talks/",
-    "revision": "79ac0b858601292d12bc306131b4e4a1"
+    "revision": "3f38623cb460a95da73e916016df2bf6"
   },
   {
     "url": "/2019//topics/make-hyperledger-fabric-reactive-and-cqrs-es/",
-    "revision": "5bbe4784b51e36b39a79f0bc0ab94033"
+    "revision": "04195ab86946bf6591c59bbf46079e1f"
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/",
-    "revision": "54b2015c790d07466006bf7a4aff1136"
+    "revision": "b048ad44be195763b774619c6303f3f4"
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/",
-    "revision": "edb486dce983a6001eebfb245817e739"
+    "revision": "5155cf9054c64cc9ad9cb91766ff897d"
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/",
-    "revision": "ae6ed79fd503ae4a6426e195a12a5c33"
+    "revision": "bd9c56bc90fbc1c85edfb89a61d9ff40"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/",
-    "revision": "2ff51b833214ecdbb39e744282c51543"
+    "revision": "55c52dac87df2ab4ca2c21d2a05e56a1"
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/",
-    "revision": "8162e3b7f36b08762e051192de4b85f8"
+    "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/",
-    "revision": "86e5b9d54a2a80cd15815b169a0587b3"
+    "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
   {
     "url": "/2019//topics/plant-identification-system-ai-ar/",
-    "revision": "9cabf242f90d51d1eefdfa825ce02704"
+    "revision": "1c9d5514cb5dfd4048bca1b9e7c651ec"
   },
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/",
-    "revision": "7488c9cdef58021cc0b8efdf2b0382c2"
+    "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/",
-    "revision": "e30cc9bfe7625029f6c86188b2d310bd"
+    "revision": "d83b0b17e8d804a572a6de8c918ddf4d"
   },
   {
     "url": "/2019//topics/random-number-generation-simulation-blockchain-and-cryptography/",
-    "revision": "c225f46afc8ae9a5bc72e667b9b11d3c"
+    "revision": "adc2d79e6421072b8425122d2e409e17"
   },
   {
     "url": "/2019//topics/raspberry-pi-history-tips-and-use-case/",
-    "revision": "2ea81676a3b5f986a086ac78757a94ce"
+    "revision": "991899b1f362937c94d0fc595f479880"
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/",
-    "revision": "41b83e23b4d7228e4a6f3d076acfabbe"
+    "revision": "d73977e456478f705ba09e1fd1f5a362"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/",
-    "revision": "89a4941456025b39f31f1c74e188f94b"
+    "revision": "5e7dfc34ccd183a319a2701cddd8468f"
   },
   {
     "url": "/2019//topics/troubleshooting-performance-tuning-best-practices/",
-    "revision": "a68669e3d4c9459c0afe6bcdb42ee1b1"
+    "revision": "1b4b7e46cc635536e4e503c4e2bf5457"
   },
   {
     "url": "/2019//topics/vlc-and-open-source-multimedia-news/",
-    "revision": "de5664ea51f03d0b66a94b2bdab7051e"
+    "revision": "68c462c6efec4b1aee99261d2922b543"
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/",
-    "revision": "4b1c50ea6fb53552088b64cc4acd40e8"
+    "revision": "8c8c3ff31ea04c5029a2b6f65c9f8dc1"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
-    "revision": "a836e03a7eeb844438119f5aaf74d97b"
+    "revision": "eb75b0427b6ce99d5bfa000389497b2d"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/",
-    "revision": "9dc6b6480fbdab4ff7db08cdf27a9236"
+    "revision": "e28eda96c7abe921d4d247d126b716f9"
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/",
-    "revision": "73122266c998f9bbf94be48f6b2030ae"
+    "revision": "85b2d8ca2ba7b45b84fe812d07c967b5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
