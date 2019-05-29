@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "e7cd8aa355eb91f7628c6930163b7d56"
+    "revision": "66f606195c8d16de3a71df475a4192e8"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "36616161fe3370d7e23edb0bd55198c3"
+    "revision": "7f25fd32f0dadc43600e7b3e048095ff"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -443,7 +443,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
-    "revision": "242981dd29e20e735db49c29abd3fb76"
+    "revision": "fc6735a5feec80ea1dde0227ccded233"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/index.html",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "e7cd8aa355eb91f7628c6930163b7d56"
+    "revision": "66f606195c8d16de3a71df475a4192e8"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -591,7 +591,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "36616161fe3370d7e23edb0bd55198c3"
+    "revision": "7f25fd32f0dadc43600e7b3e048095ff"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -667,7 +667,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/pushing-upstream/",
-    "revision": "242981dd29e20e735db49c29abd3fb76"
+    "revision": "fc6735a5feec80ea1dde0227ccded233"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/",
