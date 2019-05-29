@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "66f606195c8d16de3a71df475a4192e8"
+    "revision": "02d9abcacb505066233e2c4f926d51d9"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "7f25fd32f0dadc43600e7b3e048095ff"
+    "revision": "f1197e207070bc8f617ccd4213ffb223"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -459,7 +459,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/index.html",
-    "revision": "d73977e456478f705ba09e1fd1f5a362"
+    "revision": "c9b57fd60cfd5f31ba6b27a33bfa62eb"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/index.html",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "66f606195c8d16de3a71df475a4192e8"
+    "revision": "02d9abcacb505066233e2c4f926d51d9"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -591,7 +591,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "7f25fd32f0dadc43600e7b3e048095ff"
+    "revision": "f1197e207070bc8f617ccd4213ffb223"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -683,7 +683,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/",
-    "revision": "d73977e456478f705ba09e1fd1f5a362"
+    "revision": "c9b57fd60cfd5f31ba6b27a33bfa62eb"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/",
