@@ -1,0 +1,63 @@
+<!doctype html>
+<html data-n-head-ssr data-n-head="">
+  <head data-n-head="">
+    <title data-n-head="true">OpenFass vs Fission: Our experiences building a serverless platform for app development | Hong Kong Open Source Conference 2019</title><meta data-n-head="true" charset="utf-8"><meta data-n-head="true" http-equiv="X-UA-Compatible" content="IE=edge"><meta data-n-head="true" name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta data-n-head="true" data-hid="theme-color" name="theme-color" content="#294454"><meta data-n-head="true" data-hid="author" name="author" content="Team 404 Busters"><meta data-n-head="true" data-hid="og:site_name" property="og:site_name" content="Hong Kong Open Source Conference 2019"><meta data-n-head="true" data-hid="og:type" property="og:type" content="website"><meta data-n-head="true" data-hid="og:title" property="og:title" content="OpenFass vs Fission: Our experiences building a serverless platform for app development | Hong Kong Open Source Conference 2019"><meta data-n-head="true" data-hid="description" name="description" content=""><meta data-n-head="true" data-hid="og:image" property="og:image" content="https://hkoscon.org/logo.png"><link data-n-head="true" rel="icon" type="image/x-icon" href="https://hkoscon.org/favicon.ico"><link data-n-head="true" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato|Noto+Sans+TC|Material+Icons"><link data-n-head="true" rel="manifest" href="/2019/manifest.73eb7fba.json"><base href="/2019/"><link rel="preload" href="/2019/bae463d58234ba7ea664.js" as="script"><link rel="preload" href="/2019/884aef19c7edaf5b65c7.js" as="script"><link rel="preload" href="/2019/0a7007e0ef452862c6dc.css" as="style"><link rel="preload" href="/2019/dc7c7bec2bec14e04999.js" as="script"><link rel="preload" href="/2019/37c8017205573a1be8f0.css" as="style"><link rel="preload" href="/2019/d4a6875306e57e9572e4.js" as="script"><link rel="preload" href="/2019/65a468635d7e2bbd7bf8.css" as="style"><link rel="preload" href="/2019/0c7a307ce3868101e58c.js" as="script"><link rel="stylesheet" href="/2019/0a7007e0ef452862c6dc.css"><link rel="stylesheet" href="/2019/37c8017205573a1be8f0.css"><link rel="stylesheet" href="/2019/65a468635d7e2bbd7bf8.css">
+  </head>
+  <body data-n-head="">
+    <div data-server-rendered="true" id="__nuxt"><!----><div id="__layout"><div class="defaultLayout"><nav role="navigation" aria-label="main navigation" class="navbar defaultLayout__navbar"><div class="navbar-brand"><a href="/2019/" class="navbar-item nuxt-link-active"><img src="/2019/img/eb90f7f.png"> <span>HKOSCon 2019</span></a> <a role="button" aria-label="menu" aria-expanded="false" class="navbar-burger defaultLayout__burger"><span aria-hidden="true"></span> <span aria-hidden="true"></span> <span aria-hidden="true"></span></a></div> <div class="navbar-menu"><div class="navbar-start"><div class="navbar-item has-dropdown"><span class="navbar-link">
+            About
+          </span> <div class="navbar-dropdown"><a href="/2019/about/conference" class="navbar-item">
+              About Conference
+            </a> <a href="/2019/about/organizers" class="navbar-item">
+              Organizers
+            </a> <a href="/2019/about/volunteers" class="navbar-item">
+              Volunteers
+            </a> <a href="/2019/about/coc" class="navbar-item">
+              Code of Conduct
+            </a></div></div> <a href="/2019/cfc" class="navbar-item">
+          Communities
+        </a> <a href="/2019/sponsors" class="navbar-item">
+          Sponsors
+        </a> <a href="/2019/timetable" class="navbar-item">
+          Timetable
+        </a> <div class="navbar-item has-dropdown"><span class="navbar-link">
+            Archive
+          </span> <div class="navbar-dropdown"><a href="https://hkoscon.org/2018/" class="navbar-item">
+              HKOSCon 2018
+            </a> <a href="https://hkoscon.org/2017/" class="navbar-item">
+              HKOSCon 2017
+            </a> <a href="https://2016.opensource.hk/" class="navbar-item">
+              HKOSCon 2016
+            </a> <a href="https://2015.opensource.hk/" class="navbar-item">
+              HKOSCon 2015
+            </a> <a href="/2014/" class="navbar-item">
+              HKOSCon 2014
+            </a> <a href="/2013/" class="navbar-item">
+              HKOSCon 2013
+            </a></div></div></div> <div class="navbar-end"><div class="navbar-item"><p class="control"><a href="https://hkoscon2019.eventbrite.com/" target="_blank" class="button is-primary">
+              Register Now
+            </a></p></div></div></div></nav> <div class="defaultLayout__content"><main class="topicPage"><section class="hero is-medium"><div class="hero-body topicPage__header"><div class="container"><h1 class="title topicPage__title">
+          OpenFass vs Fission: Our experiences building a serverless platform for app development
+        </h1> <div class="topicPage__actions"><button class="button is-reverse is-fab"><span class="icon"><i class="material-icons">share</i></span></button> <div class="modal"><div class="modal-background"></div> <div class="modal-content"><div class="topicPage__share"><a href="https://twitter.com/share?text=%20in%20going%20to%20deliver%20OpenFass%20vs%20Fission%3A%20Our%20experiences%20building%20a%20serverless%20platform%20for%20app%20development%20in%20HKOSCon%202019&via=hkoscon&hashtags=hkoscon%2Chkoscon2019&url=https%3A%2F%2Fhkoscon.org%2F2019%2Ftopic%2Fopenfass-vs-fission-our-experiences-building-serverless-platform-app-development%3Futm_medium%3Dshare%26utm_campaign%3Dwebsite_share%26utm_source%3Dtwitter" target="_blank" class="topicPage__share__button topicPage__share__button--twitter"><span class="icon is-medium"><i class="fa fa-twitter fa-2x"></i></span></a> <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhkoscon.org%2F2019%2Ftopic%2Fopenfass-vs-fission-our-experiences-building-serverless-platform-app-development%3Futm_medium%3Dshare%26utm_campaign%3Dwebsite_share%26utm_source%3Dlinkedin" target="_blank" class="topicPage__share__button topicPage__share__button--linkedin"><span class="icon is-medium"><i class="fa fa-linkedin-square fa-2x"></i></span></a> <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhkoscon.org%2F2019%2Ftopic%2Fopenfass-vs-fission-our-experiences-building-serverless-platform-app-development%3Futm_medium%3Dshare%26utm_campaign%3Dwebsite_share%26utm_source%3Dlinkedin" target="_blank" class="topicPage__share__button topicPage__share__button--pinterest"><span class="icon is-medium"><i class="fa fa-pinterest fa-2x"></i></span></a> <a href="http://www.plurk.com/?qualifier=shares&status=https%3A%2F%2Fhkoscon.org%2F2019%2Ftopic%2Fopenfass-vs-fission-our-experiences-building-serverless-platform-app-development%3Futm_medium%3Dshare%26utm_campaign%3Dwebsite_share%26utm_source%3Dplurk%20(OpenFass%20vs%20Fission%3A%20Our%20experiences%20building%20a%20serverless%20platform%20for%20app%20development%20%7C%20Hoog%20Kong%20Open%20Source%20Conference)" target="_blank" class="topicPage__share__button topicPage__share__button--plurk"><figure class="image topicPage__share__button__logo"><img src="https://s.plurk.com/0fb4e821ff17e6c109ad18afe0002cdd.png"></figure></a></div></div> <button aria-label="close" class="modal-close is-large"></button></div></div></div></div></section> <section class="section topicPage__section topicPage__section--meta"><div class="container"><div class="topicPage__meta"><i class="material-icons topicPage__icon">
+          event
+        </i> <span class="topicPage__meta__text">
+          2019-06-15 (Day 2) ~ 14:20 - 14:50
+        </span></div> <div class="topicPage__meta"><i class="material-icons topicPage__icon">
+          explore
+        </i> <span class="topicPage__meta__text">
+          Conference Hall 4
+        </span></div> <div class="topicPage__meta"><ul class="topicPage__meta__list"><li><i class="material-icons topicPage__icon">
+              comment
+            </i> <span class="topicPage__meta__text">
+              
+            </span></li> <li><i class="material-icons topicPage__icon">
+              network_check
+            </i> <span class="topicPage__meta__text">
+              
+            </span></li></ul></div></div></section> <section class="topicPage__description"><div class="container"><div></div></div></section> <div class="section topicPage__section"><div class="container"></div></div></main></div> <footer><div class="pageFooter__hashtag has-text-right has-text-theme-blue">
+    #HKOSCon2019
+  </div> <div class="footer pageFooter__social"><div class="has-text-centered pageFooter__social__section"><div class="pageFooter__social__media"><a href="https://facebook.com/hkoscon/" target="_blank" class="pageFooter__social__link"><span class="icon is-medium pageFooter__social__logo"><i class="fa fa-facebook-square fa-2x"></i></span></a></div> <div class="pageFooter__social__media"><a href="https://twitter.com/hkoscon/" target="_blank" class="pageFooter__social__link"><span class="icon is-medium pageFooter__social__logo"><i class="fa fa-twitter fa-2x"></i></span></a></div> <div class="pageFooter__social__media"><a href="https://www.youtube.com/channel/UC8yt48pXALiBm8HEo3tl3FQ" target="_blank" class="pageFooter__social__link"><span class="icon is-medium pageFooter__social__logo"><i class="fa fa-youtube-play fa-2x"></i></span></a></div> <div class="pageFooter__social__media"><a href="mailto:conference@opensource.hk" class="pageFooter__social__link"><span class="icon is-medium pageFooter__social__logo"><i class="fa fa-envelope fa-2x"></i></span></a></div></div></div> <div class="footer pageFooter__copyright"><div class="content has-text-centered"><p>
+        This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/hk/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Hong Kong License</a>. Logos and trademarks belong to their respective owners.
+      </p></div></div></footer></div></div></div><script>window.__NUXT__={layout:"default",data:[{topic:{day:2,date:"2019-06-15",startTime:"14:20",endTime:"14:50",topic:!0,display:"OpenFass vs Fission: Our experiences building a serverless platform for app development",description:"",venue:{name:"Conference Hall 4"},language:"",language_sym_interp:[],level:"",speakers:[],video_recordings:[],slides:[],internal:"https://data.hkoscon.org/event/openfass-vs-fission-our-experiences-building-serverless-platform-app-development"},id:"openfass-vs-fission-our-experiences-building-serverless-platform-app-development"}],error:null,serverRendered:!0}</script><script src="/2019/bae463d58234ba7ea664.js" defer></script><script src="/2019/d4a6875306e57e9572e4.js" defer></script><script src="/2019/0c7a307ce3868101e58c.js" defer></script><script src="/2019/884aef19c7edaf5b65c7.js" defer></script><script src="/2019/dc7c7bec2bec14e04999.js" defer></script>
+  </body>
+</html>

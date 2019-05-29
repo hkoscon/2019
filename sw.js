@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "fcc647aae1a0a43bd22948bb7b3ebdac"
+    "revision": "e2dfdc0adafa26324e4f7503714b3c8a"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -343,7 +343,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/index.html",
-    "revision": "5c175b6e65a8f80ab819440b6b0e7ed6"
+    "revision": "2eefdac704219d5293e7b0dc4134d72e"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/how-we-started-open-source-apm-project-and-troubleshooting-it/index.html",
-    "revision": "16a142b1097d02768f3e5a7913e98306"
+    "revision": "3fb76f62e4cc85c6db0127272bc8fb5f"
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "3e7a00ddd3d700fb330c7f1230dd5888"
+    "revision": "a500968c4164f7a896954ea202e86395"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -422,6 +422,10 @@ self.__precacheManifest = [
     "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
+    "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
+    "revision": "c5487ae56656500388378703233e78cd"
+  },
+  {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/index.html",
     "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
@@ -432,6 +436,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/index.html",
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
+  },
+  {
+    "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
+    "revision": "7b17867c0e18023c5383ec615861afb4"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/index.html",
@@ -511,7 +519,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "fcc647aae1a0a43bd22948bb7b3ebdac"
+    "revision": "e2dfdc0adafa26324e4f7503714b3c8a"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -555,7 +563,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/",
-    "revision": "5c175b6e65a8f80ab819440b6b0e7ed6"
+    "revision": "2eefdac704219d5293e7b0dc4134d72e"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/",
@@ -571,7 +579,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/how-we-started-open-source-apm-project-and-troubleshooting-it/",
-    "revision": "16a142b1097d02768f3e5a7913e98306"
+    "revision": "3fb76f62e4cc85c6db0127272bc8fb5f"
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/",
@@ -579,7 +587,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "3e7a00ddd3d700fb330c7f1230dd5888"
+    "revision": "a500968c4164f7a896954ea202e86395"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -634,6 +642,10 @@ self.__precacheManifest = [
     "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
+    "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/",
+    "revision": "c5487ae56656500388378703233e78cd"
+  },
+  {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/",
     "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
@@ -644,6 +656,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/plug-it-mysql-authentication-windows-pam/",
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
+  },
+  {
+    "url": "/2019//topics/predicting-nba-results-tensorflow/",
+    "revision": "7b17867c0e18023c5383ec615861afb4"
   },
   {
     "url": "/2019//topics/r-exploratory-data-analysis/",
