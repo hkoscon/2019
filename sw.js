@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "1647db4fd7c44949becc839958de12a0"
+    "revision": "dc0dda9f8724c56c1b5569f988f522f0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "a500968c4164f7a896954ea202e86395"
+    "revision": "36616161fe3370d7e23edb0bd55198c3"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -442,6 +442,10 @@ self.__precacheManifest = [
     "revision": "7b17867c0e18023c5383ec615861afb4"
   },
   {
+    "url": "/2019//topics/pushing-upstream/index.html",
+    "revision": "242981dd29e20e735db49c29abd3fb76"
+  },
+  {
     "url": "/2019//topics/r-exploratory-data-analysis/index.html",
     "revision": "d83b0b17e8d804a572a6de8c918ddf4d"
   },
@@ -475,7 +479,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
-    "revision": "eb75b0427b6ce99d5bfa000389497b2d"
+    "revision": "5db892273a71f09de95661ca3129df77"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/index.html",
@@ -519,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "1647db4fd7c44949becc839958de12a0"
+    "revision": "dc0dda9f8724c56c1b5569f988f522f0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -587,7 +591,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "a500968c4164f7a896954ea202e86395"
+    "revision": "36616161fe3370d7e23edb0bd55198c3"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -662,6 +666,10 @@ self.__precacheManifest = [
     "revision": "7b17867c0e18023c5383ec615861afb4"
   },
   {
+    "url": "/2019//topics/pushing-upstream/",
+    "revision": "242981dd29e20e735db49c29abd3fb76"
+  },
+  {
     "url": "/2019//topics/r-exploratory-data-analysis/",
     "revision": "d83b0b17e8d804a572a6de8c918ddf4d"
   },
@@ -695,7 +703,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
-    "revision": "eb75b0427b6ce99d5bfa000389497b2d"
+    "revision": "5db892273a71f09de95661ca3129df77"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/",
