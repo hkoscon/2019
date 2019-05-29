@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "dc0dda9f8724c56c1b5569f988f522f0"
+    "revision": "e7cd8aa355eb91f7628c6930163b7d56"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -479,7 +479,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
-    "revision": "5db892273a71f09de95661ca3129df77"
+    "revision": "52e64417c622d375a8e22f853f5e18db"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/index.html",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "dc0dda9f8724c56c1b5569f988f522f0"
+    "revision": "e7cd8aa355eb91f7628c6930163b7d56"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -703,7 +703,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
-    "revision": "5db892273a71f09de95661ca3129df77"
+    "revision": "52e64417c622d375a8e22f853f5e18db"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/",
