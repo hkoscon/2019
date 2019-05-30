@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "15388a43dad823b3878b6ce11bac37f9"
+    "revision": "e76193fa524936ebf567685f71b72a59"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "f1197e207070bc8f617ccd4213ffb223"
+    "revision": "5e473c613fa2c803904c26ab4981602e"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -422,6 +422,10 @@ self.__precacheManifest = [
     "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
+    "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
+    "revision": "2188e65dfe594fed305a76ad6ea84e6c"
+  },
+  {
     "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
     "revision": "c5487ae56656500388378703233e78cd"
   },
@@ -438,8 +442,8 @@ self.__precacheManifest = [
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
-    "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
-    "revision": "7b17867c0e18023c5383ec615861afb4"
+    "url": "/2019//topics/predicting-nba-results-tensorflow-0/index.html",
+    "revision": "409f9524f42598c4c8821cbd7be998af"
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
@@ -451,7 +455,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/random-number-generation-simulation-blockchain-and-cryptography/index.html",
-    "revision": "adc2d79e6421072b8425122d2e409e17"
+    "revision": "b9751060ecad43dc72167c0a143cd96f"
   },
   {
     "url": "/2019//topics/raspberry-pi-history-tips-and-use-case/index.html",
@@ -523,7 +527,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "15388a43dad823b3878b6ce11bac37f9"
+    "revision": "e76193fa524936ebf567685f71b72a59"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -591,7 +595,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "f1197e207070bc8f617ccd4213ffb223"
+    "revision": "5e473c613fa2c803904c26ab4981602e"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -646,6 +650,10 @@ self.__precacheManifest = [
     "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
   },
   {
+    "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/",
+    "revision": "2188e65dfe594fed305a76ad6ea84e6c"
+  },
+  {
     "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/",
     "revision": "c5487ae56656500388378703233e78cd"
   },
@@ -662,8 +670,8 @@ self.__precacheManifest = [
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
-    "url": "/2019//topics/predicting-nba-results-tensorflow/",
-    "revision": "7b17867c0e18023c5383ec615861afb4"
+    "url": "/2019//topics/predicting-nba-results-tensorflow-0/",
+    "revision": "409f9524f42598c4c8821cbd7be998af"
   },
   {
     "url": "/2019//topics/pushing-upstream/",
@@ -675,7 +683,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/random-number-generation-simulation-blockchain-and-cryptography/",
-    "revision": "adc2d79e6421072b8425122d2e409e17"
+    "revision": "b9751060ecad43dc72167c0a143cd96f"
   },
   {
     "url": "/2019//topics/raspberry-pi-history-tips-and-use-case/",
