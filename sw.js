@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "5ce2d95d9fee779a18ce0e1d7e24fc70"
+    "revision": "91f8f34d7fdc1a13fa269d60f8e0c7cd"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "5e473c613fa2c803904c26ab4981602e"
+    "revision": "48ade78d38fdb67b8a241acdc403034f"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -426,10 +426,6 @@ self.__precacheManifest = [
     "revision": "2188e65dfe594fed305a76ad6ea84e6c"
   },
   {
-    "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
-    "revision": "c5487ae56656500388378703233e78cd"
-  },
-  {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/index.html",
     "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
@@ -442,8 +438,8 @@ self.__precacheManifest = [
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
-    "url": "/2019//topics/predicting-nba-results-tensorflow-0/index.html",
-    "revision": "409f9524f42598c4c8821cbd7be998af"
+    "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
+    "revision": "4dfc5ca6b41251ad45dfcb8d8185aa73"
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
@@ -527,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "5ce2d95d9fee779a18ce0e1d7e24fc70"
+    "revision": "91f8f34d7fdc1a13fa269d60f8e0c7cd"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -595,7 +591,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "5e473c613fa2c803904c26ab4981602e"
+    "revision": "48ade78d38fdb67b8a241acdc403034f"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -654,10 +650,6 @@ self.__precacheManifest = [
     "revision": "2188e65dfe594fed305a76ad6ea84e6c"
   },
   {
-    "url": "/2019//topics/openfass-vs-fission-our-experiences-building-serverless-platform-app-development/",
-    "revision": "c5487ae56656500388378703233e78cd"
-  },
-  {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/",
     "revision": "42eb373ef3d8b23b3859e8efde94efce"
   },
@@ -670,8 +662,8 @@ self.__precacheManifest = [
     "revision": "fb1ba15e8b7ff67c86e1231b4cd4d2a3"
   },
   {
-    "url": "/2019//topics/predicting-nba-results-tensorflow-0/",
-    "revision": "409f9524f42598c4c8821cbd7be998af"
+    "url": "/2019//topics/predicting-nba-results-tensorflow/",
+    "revision": "4dfc5ca6b41251ad45dfcb8d8185aa73"
   },
   {
     "url": "/2019//topics/pushing-upstream/",
