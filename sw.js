@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "91f8f34d7fdc1a13fa269d60f8e0c7cd"
+    "revision": "12e78e6424a583351791cf970a931cee"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
-    "revision": "4dfc5ca6b41251ad45dfcb8d8185aa73"
+    "revision": "20f17a4585dbe994aeaa1d4356c38793"
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "91f8f34d7fdc1a13fa269d60f8e0c7cd"
+    "revision": "12e78e6424a583351791cf970a931cee"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -663,7 +663,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/",
-    "revision": "4dfc5ca6b41251ad45dfcb8d8185aa73"
+    "revision": "20f17a4585dbe994aeaa1d4356c38793"
   },
   {
     "url": "/2019//topics/pushing-upstream/",
