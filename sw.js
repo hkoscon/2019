@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "12e78e6424a583351791cf970a931cee"
+    "revision": "efc2da7f75057a0a19f12f8c39a19b58"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -354,6 +354,10 @@ self.__precacheManifest = [
     "revision": "0bc6cb21137ea86859b7574385d11c71"
   },
   {
+    "url": "/2019//topics/hk01-scales-open-sources-and-event-driven-architecture/index.html",
+    "revision": "3a824c62c2cfb2677e8ac97824c4a419"
+  },
+  {
     "url": "/2019//topics/homemade-scientific-clusters/index.html",
     "revision": "c834564564a0655b40ed5cf0b74f0835"
   },
@@ -367,7 +371,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "48ade78d38fdb67b8a241acdc403034f"
+    "revision": "a78618e3d4eff776ef8b4fcd553deac0"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -380,6 +384,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/index.html",
     "revision": "1fd80b892ff609da7d09dbcb0e746674"
+  },
+  {
+    "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/index.html",
+    "revision": "316a5e3b09cb5cf33faf92b7d561a1a7"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/index.html",
@@ -523,7 +531,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "12e78e6424a583351791cf970a931cee"
+    "revision": "efc2da7f75057a0a19f12f8c39a19b58"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -578,6 +586,10 @@ self.__precacheManifest = [
     "revision": "0bc6cb21137ea86859b7574385d11c71"
   },
   {
+    "url": "/2019//topics/hk01-scales-open-sources-and-event-driven-architecture/",
+    "revision": "3a824c62c2cfb2677e8ac97824c4a419"
+  },
+  {
     "url": "/2019//topics/homemade-scientific-clusters/",
     "revision": "c834564564a0655b40ed5cf0b74f0835"
   },
@@ -591,7 +603,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "48ade78d38fdb67b8a241acdc403034f"
+    "revision": "a78618e3d4eff776ef8b4fcd553deac0"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -604,6 +616,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/",
     "revision": "1fd80b892ff609da7d09dbcb0e746674"
+  },
+  {
+    "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/",
+    "revision": "316a5e3b09cb5cf33faf92b7d561a1a7"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/",
