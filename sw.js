@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "e4c8705e1700cdbe8bf8c14585ae237f"
+    "revision": "8e4e0a6177a24d8512d5fc7529e73b2c"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -371,7 +371,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "57b048e3c362266f89a7dcaa3130ffc0"
+    "revision": "bf4df734b0c06dae8d5b6de63500f3ae"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -478,6 +478,10 @@ self.__precacheManifest = [
     "revision": "1b4b7e46cc635536e4e503c4e2bf5457"
   },
   {
+    "url": "/2019//topics/user-intent-steers-ai-powered-search/index.html",
+    "revision": "c926455947cac859417fb91b56d76c51"
+  },
+  {
     "url": "/2019//topics/vlc-and-open-source-multimedia-news/index.html",
     "revision": "68c462c6efec4b1aee99261d2922b543"
   },
@@ -531,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "e4c8705e1700cdbe8bf8c14585ae237f"
+    "revision": "8e4e0a6177a24d8512d5fc7529e73b2c"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -603,7 +607,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "57b048e3c362266f89a7dcaa3130ffc0"
+    "revision": "bf4df734b0c06dae8d5b6de63500f3ae"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -708,6 +712,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/troubleshooting-performance-tuning-best-practices/",
     "revision": "1b4b7e46cc635536e4e503c4e2bf5457"
+  },
+  {
+    "url": "/2019//topics/user-intent-steers-ai-powered-search/",
+    "revision": "c926455947cac859417fb91b56d76c51"
   },
   {
     "url": "/2019//topics/vlc-and-open-source-multimedia-news/",
