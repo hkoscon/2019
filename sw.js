@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "8e4e0a6177a24d8512d5fc7529e73b2c"
+    "revision": "bf3bcaab6ed36d6a10c08d2648fcd993"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -371,7 +371,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "bf4df734b0c06dae8d5b6de63500f3ae"
+    "revision": "aa9a337b68e4a5d86e5c441eb24c0385"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -415,7 +415,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/index.html",
-    "revision": "5155cf9054c64cc9ad9cb91766ff897d"
+    "revision": "33d89709f1417b657698f02d5d4cabc6"
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/index.html",
@@ -535,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "8e4e0a6177a24d8512d5fc7529e73b2c"
+    "revision": "bf3bcaab6ed36d6a10c08d2648fcd993"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -607,7 +607,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "bf4df734b0c06dae8d5b6de63500f3ae"
+    "revision": "aa9a337b68e4a5d86e5c441eb24c0385"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -651,7 +651,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/",
-    "revision": "5155cf9054c64cc9ad9cb91766ff897d"
+    "revision": "33d89709f1417b657698f02d5d4cabc6"
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/",
