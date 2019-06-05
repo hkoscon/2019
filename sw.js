@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "c65a364de6977061c1ad0bee71345f8b"
+    "revision": "36340e68dd310ea7a1d84cf25fe25cf5"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -312,6 +312,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/build-minimal-dbms-scratch-rust/index.html",
     "revision": "a48e708d1e3a784b1891df9e6f5392a9"
+  },
+  {
+    "url": "/2019//topics/community-community-what-open-culture-foundation/index.html",
+    "revision": "69632fc1f77b5e07f540e42d8473faba"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/index.html",
@@ -371,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "aa9a337b68e4a5d86e5c441eb24c0385"
+    "revision": "5582b981839eff25f3aefc963017946a"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -535,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "c65a364de6977061c1ad0bee71345f8b"
+    "revision": "36340e68dd310ea7a1d84cf25fe25cf5"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -548,6 +552,10 @@ self.__precacheManifest = [
   {
     "url": "/2019//topics/build-minimal-dbms-scratch-rust/",
     "revision": "a48e708d1e3a784b1891df9e6f5392a9"
+  },
+  {
+    "url": "/2019//topics/community-community-what-open-culture-foundation/",
+    "revision": "69632fc1f77b5e07f540e42d8473faba"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/",
@@ -607,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "aa9a337b68e4a5d86e5c441eb24c0385"
+    "revision": "5582b981839eff25f3aefc963017946a"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
