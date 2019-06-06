@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "4dd58c5762d423c51ccca69992156e51"
+    "revision": "66fc07cc0b44b5fa9f62e3319a91aee4"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -319,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/index.html",
-    "revision": "cb5f55895f2855bf6de4494bbce49b66"
+    "revision": "e364c2c1dd4627f5031e407c1da28717"
   },
   {
     "url": "/2019//topics/dapp-game-blockchain-random-number-generation-method-and-implementation/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "4d618a41b729845245c9f55498d6271d"
+    "revision": "6c39bbf4c10d3f588c4cff2a4b82d31b"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/index.html",
-    "revision": "1fd80b892ff609da7d09dbcb0e746674"
+    "revision": "a9fe86418a57f762fbcaad6517083357"
   },
   {
     "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/index.html",
@@ -395,11 +395,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/index.html",
-    "revision": "845e554539bebac23d57327f99b2cc72"
+    "revision": "57fb8682ef12276d6121113adbfeb792"
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/index.html",
-    "revision": "ca95c0480230284aec98e59618580d2a"
+    "revision": "db80836b3620bf258611620e4dbd6e84"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/index.html",
@@ -503,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/index.html",
-    "revision": "85b2d8ca2ba7b45b84fe812d07c967b5"
+    "revision": "01614e10b4eaadd3aef11838bb933b20"
   },
   {
     "url": "/2019//about/coc/",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "4dd58c5762d423c51ccca69992156e51"
+    "revision": "66fc07cc0b44b5fa9f62e3319a91aee4"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -559,7 +559,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/",
-    "revision": "cb5f55895f2855bf6de4494bbce49b66"
+    "revision": "e364c2c1dd4627f5031e407c1da28717"
   },
   {
     "url": "/2019//topics/dapp-game-blockchain-random-number-generation-method-and-implementation/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "4d618a41b729845245c9f55498d6271d"
+    "revision": "6c39bbf4c10d3f588c4cff2a4b82d31b"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -627,7 +627,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/introducing-tus-resumable-file-uploads-protocol/",
-    "revision": "1fd80b892ff609da7d09dbcb0e746674"
+    "revision": "a9fe86418a57f762fbcaad6517083357"
   },
   {
     "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/",
@@ -635,11 +635,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/",
-    "revision": "845e554539bebac23d57327f99b2cc72"
+    "revision": "57fb8682ef12276d6121113adbfeb792"
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/",
-    "revision": "ca95c0480230284aec98e59618580d2a"
+    "revision": "db80836b3620bf258611620e4dbd6e84"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/",
@@ -743,7 +743,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/",
-    "revision": "85b2d8ca2ba7b45b84fe812d07c967b5"
+    "revision": "01614e10b4eaadd3aef11838bb933b20"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
