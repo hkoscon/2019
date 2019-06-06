@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "36340e68dd310ea7a1d84cf25fe25cf5"
+    "revision": "4dd58c5762d423c51ccca69992156e51"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -315,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/community-community-what-open-culture-foundation/index.html",
-    "revision": "69632fc1f77b5e07f540e42d8473faba"
+    "revision": "53541af553c4e064f790c323025e6d81"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "5582b981839eff25f3aefc963017946a"
+    "revision": "4d618a41b729845245c9f55498d6271d"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -431,11 +431,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/index.html",
-    "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
+    "revision": "71450ea54f1adafdf58d2fc663d7c9bc"
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
-    "revision": "2188e65dfe594fed305a76ad6ea84e6c"
+    "revision": "a3eb81aebbdfd020de44efacbdec0232"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/index.html",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
-    "revision": "20f17a4585dbe994aeaa1d4356c38793"
+    "revision": "2f7bee28f9b12f126455aef61f2ed267"
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "36340e68dd310ea7a1d84cf25fe25cf5"
+    "revision": "4dd58c5762d423c51ccca69992156e51"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -555,7 +555,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/community-community-what-open-culture-foundation/",
-    "revision": "69632fc1f77b5e07f540e42d8473faba"
+    "revision": "53541af553c4e064f790c323025e6d81"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "5582b981839eff25f3aefc963017946a"
+    "revision": "4d618a41b729845245c9f55498d6271d"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -671,11 +671,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/",
-    "revision": "e8530cf363dfdcbcf6b421d4cc9193d3"
+    "revision": "71450ea54f1adafdf58d2fc663d7c9bc"
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/",
-    "revision": "2188e65dfe594fed305a76ad6ea84e6c"
+    "revision": "a3eb81aebbdfd020de44efacbdec0232"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/",
@@ -691,7 +691,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/",
-    "revision": "20f17a4585dbe994aeaa1d4356c38793"
+    "revision": "2f7bee28f9b12f126455aef61f2ed267"
   },
   {
     "url": "/2019//topics/pushing-upstream/",
