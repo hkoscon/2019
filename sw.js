@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "dd2e914b317b944fb5d60eac499a5fba"
+    "revision": "1e70647913374ca7b5b86ee4e9dc1096"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -347,7 +347,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/index.html",
-    "revision": "2eefdac704219d5293e7b0dc4134d72e"
+    "revision": "37ec47525998a3e132a5e5691d3d2a90"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "e98d8fd92c825ead3cbef1675d723e5c"
+    "revision": "9c0575a69ea36f76aad82d6059aef7bd"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/index.html",
-    "revision": "316a5e3b09cb5cf33faf92b7d561a1a7"
+    "revision": "bc16f26cba5908fcb72b3d86cc978709"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/index.html",
@@ -411,7 +411,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/make-hyperledger-fabric-reactive-and-cqrs-es/index.html",
-    "revision": "04195ab86946bf6591c59bbf46079e1f"
+    "revision": "b6caab2d5025d47f1213e28478477202"
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/index.html",
@@ -423,7 +423,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/index.html",
-    "revision": "bd9c56bc90fbc1c85edfb89a61d9ff40"
+    "revision": "dc000cc1d8a43e37f53ab11b8df7c294"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/index.html",
@@ -471,7 +471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/index.html",
-    "revision": "04b33481abad57ba45f5dae003fc4cd6"
+    "revision": "85908488326ea909939af98551dac8e2"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "dd2e914b317b944fb5d60eac499a5fba"
+    "revision": "1e70647913374ca7b5b86ee4e9dc1096"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -587,7 +587,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ethereum-and-enterprise-corporate-strategies-open-source-blockchain-deployments/",
-    "revision": "2eefdac704219d5293e7b0dc4134d72e"
+    "revision": "37ec47525998a3e132a5e5691d3d2a90"
   },
   {
     "url": "/2019//topics/formal-verification-smart-contract/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "e98d8fd92c825ead3cbef1675d723e5c"
+    "revision": "9c0575a69ea36f76aad82d6059aef7bd"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -631,7 +631,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/introduction-nginx-unit-nginx-web-application-server/",
-    "revision": "316a5e3b09cb5cf33faf92b7d561a1a7"
+    "revision": "bc16f26cba5908fcb72b3d86cc978709"
   },
   {
     "url": "/2019//topics/jiegouxianggangrenyongbiaokaitidekunhuo/",
@@ -651,7 +651,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/make-hyperledger-fabric-reactive-and-cqrs-es/",
-    "revision": "04195ab86946bf6591c59bbf46079e1f"
+    "revision": "b6caab2d5025d47f1213e28478477202"
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/",
@@ -663,7 +663,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/",
-    "revision": "bd9c56bc90fbc1c85edfb89a61d9ff40"
+    "revision": "dc000cc1d8a43e37f53ab11b8df7c294"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/",
@@ -711,7 +711,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/run-programs-faster-anywhere-graalvm/",
-    "revision": "04b33481abad57ba45f5dae003fc4cd6"
+    "revision": "85908488326ea909939af98551dac8e2"
   },
   {
     "url": "/2019//topics/status-quo-tensorflow-lite/",
