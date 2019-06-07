@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "66fc07cc0b44b5fa9f62e3319a91aee4"
+    "revision": "3f60f2e73d11aae56d437258eeecf507"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -315,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/community-community-what-open-culture-foundation/index.html",
-    "revision": "53541af553c4e064f790c323025e6d81"
+    "revision": "2214154b13d99bab842dfcba80fe6873"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "6c39bbf4c10d3f588c4cff2a4b82d31b"
+    "revision": "5db958720b8676a53bcd274137ba143e"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -435,7 +435,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
-    "revision": "a3eb81aebbdfd020de44efacbdec0232"
+    "revision": "0425fc84041dc825df5e117d5c16e1b1"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "66fc07cc0b44b5fa9f62e3319a91aee4"
+    "revision": "3f60f2e73d11aae56d437258eeecf507"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -555,7 +555,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/community-community-what-open-culture-foundation/",
-    "revision": "53541af553c4e064f790c323025e6d81"
+    "revision": "2214154b13d99bab842dfcba80fe6873"
   },
   {
     "url": "/2019//topics/continuous-delivery-cloud-native-infrastructure/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "6c39bbf4c10d3f588c4cff2a4b82d31b"
+    "revision": "5db958720b8676a53bcd274137ba143e"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -675,7 +675,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/",
-    "revision": "a3eb81aebbdfd020de44efacbdec0232"
+    "revision": "0425fc84041dc825df5e117d5c16e1b1"
   },
   {
     "url": "/2019//topics/pim25-crowdsourced-weather-data-project/",
