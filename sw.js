@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "c6a2be3034c6621404eec27d6295c0ec"
+    "revision": "4ba184718ae9a679a356268d80ce0a57"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -371,11 +371,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/index.html",
-    "revision": "e0bb518d9a73769de39a58c23caaf7bb"
+    "revision": "af9634d0ed64f269eb65a4074a7f9e84"
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "28be74a1b0ca91c9993b3dbfc2b70283"
+    "revision": "a0f46fd81ca6c7bfc40ec5a611f3c29a"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "c6a2be3034c6621404eec27d6295c0ec"
+    "revision": "4ba184718ae9a679a356268d80ce0a57"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -611,11 +611,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/",
-    "revision": "e0bb518d9a73769de39a58c23caaf7bb"
+    "revision": "af9634d0ed64f269eb65a4074a7f9e84"
   },
   {
     "url": "/2019//topics/",
-    "revision": "28be74a1b0ca91c9993b3dbfc2b70283"
+    "revision": "a0f46fd81ca6c7bfc40ec5a611f3c29a"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
