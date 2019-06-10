@@ -295,11 +295,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//sponsors/index.html",
-    "revision": "38851e910697e9ff0cc54efdd7c45c36"
+    "revision": "45766b556bb9bdaed717b1a7e1300ecc"
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "4ba184718ae9a679a356268d80ce0a57"
+    "revision": "75d6276f0b01ff2c9cd5f20d4177cbf0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -535,11 +535,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//sponsors/",
-    "revision": "38851e910697e9ff0cc54efdd7c45c36"
+    "revision": "45766b556bb9bdaed717b1a7e1300ecc"
   },
   {
     "url": "/2019//timetable/",
-    "revision": "4ba184718ae9a679a356268d80ce0a57"
+    "revision": "75d6276f0b01ff2c9cd5f20d4177cbf0"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
