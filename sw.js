@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "3508bab132e8201a1ff5e4ad987ae9d4"
+    "revision": "38bb6f1138317901bc6abf2ea45e691d"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "c455efbbbf9d70f8dbbc5326d142dbc9"
+    "revision": "9633826c69d2bf480acde5c436194922"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -431,7 +431,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/index.html",
-    "revision": "b541835d710cf63f1772ac45673800e8"
+    "revision": "16c5efe67714e650289373c905e9f8e1"
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "3508bab132e8201a1ff5e4ad987ae9d4"
+    "revision": "38bb6f1138317901bc6abf2ea45e691d"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "c455efbbbf9d70f8dbbc5326d142dbc9"
+    "revision": "9633826c69d2bf480acde5c436194922"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -671,7 +671,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/",
-    "revision": "b541835d710cf63f1772ac45673800e8"
+    "revision": "16c5efe67714e650289373c905e9f8e1"
   },
   {
     "url": "/2019//topics/openfaas-vs-fission-our-experiences-building-serverless-platform-app-development/",
