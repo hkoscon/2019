@@ -295,11 +295,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//sponsors/index.html",
-    "revision": "45766b556bb9bdaed717b1a7e1300ecc"
+    "revision": "1d5fb53f1dc012e1c21864dce6515052"
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "75d6276f0b01ff2c9cd5f20d4177cbf0"
+    "revision": "3508bab132e8201a1ff5e4ad987ae9d4"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -327,11 +327,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/decentralized-bare-metal-operating-system-provisioning/index.html",
-    "revision": "c58910c6b9efa831789a2e74b6a3b295"
+    "revision": "3e4266e8eae415eb60c2dcd1a32dcf6b"
   },
   {
     "url": "/2019//topics/decentralized-data-marketplace-based-distributed-ledgers/index.html",
-    "revision": "d284eef805059823c39042458b437544"
+    "revision": "d47c23d8211db36414bafc5b357ce754"
   },
   {
     "url": "/2019//topics/devops-ansible-native-kubernetes/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "a0f46fd81ca6c7bfc40ec5a611f3c29a"
+    "revision": "c455efbbbf9d70f8dbbc5326d142dbc9"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -399,7 +399,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/index.html",
-    "revision": "9598ab6220ecdd22f36a036128dfbc0a"
+    "revision": "c48dda900bc65f4292399eff9b6c2c67"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/index.html",
@@ -491,7 +491,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/index.html",
-    "revision": "8ede38ca12189fa8582f36e5f387d0ed"
+    "revision": "8236df8990b307a1414dfb06959114de"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
@@ -535,11 +535,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//sponsors/",
-    "revision": "45766b556bb9bdaed717b1a7e1300ecc"
+    "revision": "1d5fb53f1dc012e1c21864dce6515052"
   },
   {
     "url": "/2019//timetable/",
-    "revision": "75d6276f0b01ff2c9cd5f20d4177cbf0"
+    "revision": "3508bab132e8201a1ff5e4ad987ae9d4"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -567,11 +567,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/decentralized-bare-metal-operating-system-provisioning/",
-    "revision": "c58910c6b9efa831789a2e74b6a3b295"
+    "revision": "3e4266e8eae415eb60c2dcd1a32dcf6b"
   },
   {
     "url": "/2019//topics/decentralized-data-marketplace-based-distributed-ledgers/",
-    "revision": "d284eef805059823c39042458b437544"
+    "revision": "d47c23d8211db36414bafc5b357ce754"
   },
   {
     "url": "/2019//topics/devops-ansible-native-kubernetes/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "a0f46fd81ca6c7bfc40ec5a611f3c29a"
+    "revision": "c455efbbbf9d70f8dbbc5326d142dbc9"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -639,7 +639,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/lesson-learned-large-scale-mysql-cluster-implementing-project/",
-    "revision": "9598ab6220ecdd22f36a036128dfbc0a"
+    "revision": "c48dda900bc65f4292399eff9b6c2c67"
   },
   {
     "url": "/2019//topics/lets-build-bitcoin-client-rust-scratch/",
@@ -731,7 +731,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/",
-    "revision": "8ede38ca12189fa8582f36e5f387d0ed"
+    "revision": "8236df8990b307a1414dfb06959114de"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
