@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "38bb6f1138317901bc6abf2ea45e691d"
+    "revision": "6cfcf1bff4618760a1166a9b10c96457"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -375,11 +375,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "9633826c69d2bf480acde5c436194922"
+    "revision": "2408b772897d019c746e90f6f9717d63"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
-    "revision": "173eb5956767c9e1ee0d9ddf7cedd70e"
+    "revision": "05c59c16701fbc768f2abb6d5b771907"
   },
   {
     "url": "/2019//topics/introducing-open-technology-hong-kong-education/index.html",
@@ -423,11 +423,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/index.html",
-    "revision": "be8e12e81bdf53ed88eceefc237f0aec"
+    "revision": "bc52043b07a58f1b883637fc32afa26e"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/index.html",
-    "revision": "cdd60ea249c4a3d65d2e4a3efc545302"
+    "revision": "1f94e45dd5705dcaee324280d7a1a150"
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/index.html",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/index.html",
-    "revision": "513a8e3836413ed7d3ff73184ea67b6d"
+    "revision": "d21de088a6c5eba399583d71a53b0a10"
   },
   {
     "url": "/2019//topics/pushing-upstream/index.html",
@@ -491,7 +491,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/index.html",
-    "revision": "8236df8990b307a1414dfb06959114de"
+    "revision": "6bdeea6a5432c74787133e62b599de52"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "38bb6f1138317901bc6abf2ea45e691d"
+    "revision": "6cfcf1bff4618760a1166a9b10c96457"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -615,11 +615,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "9633826c69d2bf480acde5c436194922"
+    "revision": "2408b772897d019c746e90f6f9717d63"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
-    "revision": "173eb5956767c9e1ee0d9ddf7cedd70e"
+    "revision": "05c59c16701fbc768f2abb6d5b771907"
   },
   {
     "url": "/2019//topics/introducing-open-technology-hong-kong-education/",
@@ -663,11 +663,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/now-and-future-open-source-hong-kong-community-development/",
-    "revision": "be8e12e81bdf53ed88eceefc237f0aec"
+    "revision": "bc52043b07a58f1b883637fc32afa26e"
   },
   {
     "url": "/2019//topics/open-hardware-using-cloud/",
-    "revision": "cdd60ea249c4a3d65d2e4a3efc545302"
+    "revision": "1f94e45dd5705dcaee324280d7a1a150"
   },
   {
     "url": "/2019//topics/open-standard-and-database-languages-hong-kong-context/",
@@ -691,7 +691,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/predicting-nba-results-tensorflow/",
-    "revision": "513a8e3836413ed7d3ff73184ea67b6d"
+    "revision": "d21de088a6c5eba399583d71a53b0a10"
   },
   {
     "url": "/2019//topics/pushing-upstream/",
@@ -731,7 +731,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/what-hyperledger-fabric-20-bring-us/",
-    "revision": "8236df8990b307a1414dfb06959114de"
+    "revision": "6bdeea6a5432c74787133e62b599de52"
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
