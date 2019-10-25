@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/index.html",
-    "revision": "6cfcf1bff4618760a1166a9b10c96457"
+    "revision": "5f565d54033f7849eb3c840e3d4143c7"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/index.html",
-    "revision": "2408b772897d019c746e90f6f9717d63"
+    "revision": "67f9f8fb147f6300b46d1fcaa12bf1e9"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/index.html",
@@ -415,7 +415,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/index.html",
-    "revision": "d9afab079274e7d70396aaf80a39c386"
+    "revision": "d2e523676cd2d7e7393d16321243974b"
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/index.html",
@@ -495,11 +495,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/index.html",
-    "revision": "6430eef07afb768c90d4836c7ff6f370"
+    "revision": "64e292e341f3775b2ba7d017feb43d8c"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/index.html",
-    "revision": "823fa3a90a4bbd457096f0efc390b106"
+    "revision": "085d832edb3dbcdc7da151eb359f6d5c"
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/index.html",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//timetable/",
-    "revision": "6cfcf1bff4618760a1166a9b10c96457"
+    "revision": "5f565d54033f7849eb3c840e3d4143c7"
   },
   {
     "url": "/2019//topics/8-essential-steps-secure-your-mysql/",
@@ -615,7 +615,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/",
-    "revision": "2408b772897d019c746e90f6f9717d63"
+    "revision": "67f9f8fb147f6300b46d1fcaa12bf1e9"
   },
   {
     "url": "/2019//topics/innovation-and-open-source/",
@@ -655,7 +655,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/",
-    "revision": "d9afab079274e7d70396aaf80a39c386"
+    "revision": "d2e523676cd2d7e7393d16321243974b"
   },
   {
     "url": "/2019//topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/",
@@ -735,11 +735,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2019//topics/whats-new-freebsd-120/",
-    "revision": "6430eef07afb768c90d4836c7ff6f370"
+    "revision": "64e292e341f3775b2ba7d017feb43d8c"
   },
   {
     "url": "/2019//topics/whats-new-haxe-4/",
-    "revision": "823fa3a90a4bbd457096f0efc390b106"
+    "revision": "085d832edb3dbcdc7da151eb359f6d5c"
   },
   {
     "url": "/2019//topics/wordpress-search-engine-optimization-wordpress-seo/",
